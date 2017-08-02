@@ -1,21 +1,21 @@
 # Microsoft Advocate Hub 
 
-Try the demo (*as [end-user](http://advocatehubmobile.westus.cloudapp.azure.com) & [advocator](http://advocatehubmobile.westus.cloudapp.azure.com/admin)*)
+Try the demo (*[end user view](http://advocatehubmobile.westus.cloudapp.azure.com) & [admin dashboard](http://advocatehubmobile.westus.cloudapp.azure.com/admin)*)
 
 ​	![ah](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/ah1.png)	 ![ah](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/ah2.png)
 
-Involved into us, fork the *github repository* in both *[frontend](https://github.com/LucasDvp/advocateHub-mobile) & [backend](https://github.com/LucasDvp/advocateHub-server)*
+To contribute, fork the *github repository* in both *[frontend](https://github.com/LucasDvp/advocateHub-mobile) & [backend](https://github.com/LucasDvp/advocateHub-server)*
 
 ## End-user features
 
 - ##### HomePage
 
-  - **advocators**: users can see all the advocators by *different aspects* and *popularity*
+  - **advocators**: users can see all the advocators grouped by *different tags* and *popularity*
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home1.png" width="375px">
 
 
-  - **meetings**: users can see the *upcoming meetings* and all the *history meetings*
+  - **meetings**: users can see the *upcoming meetings* and the *history meetings*
 
     <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2.png" width="375px">
 
