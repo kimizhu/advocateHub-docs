@@ -2,7 +2,7 @@
 
 Try the demo (*as [end-user](http://advocatehubmobile.westus.cloudapp.azure.com) & [advocator](http://advocatehubmobile.westus.cloudapp.azure.com/admin)*)
 
-​	![ah](imgs\ah1.png)	 ![ah](imgs\ah2.png)
+​	![ah](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/ah1.png)	 ![ah](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/ah2.png)
 
 Involved into us, fork the *github repository* in both *[frontend](https://github.com/LucasDvp/advocateHub-mobile) & [backend](https://github.com/LucasDvp/advocateHub-server)*
 
@@ -12,11 +12,11 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
   - **advocators**: users can see all the advocators by *different aspects* and *popularity*
 
-  ![](imgs\home1.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home1.png)
 
   - **meetings**: users can see the *upcoming meetings* and all the *history meetings*
 
-![](imgs\home2.png)
+![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2.png)
 
 
 
@@ -26,15 +26,15 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
   - **general infos**: users can see the description about this meeting
 
-  ![](imgs\meetingdetail1.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail1.png)
 
   - **resources**: users can find all the resources which provided by advocator, including video, ppt, document etc.
 
-  ![](imgs\meetingdetail2.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail2.png)
 
   - **recommend**: our system will automatically do some recommendation based on the meeting subject
 
-  ![](imgs\meetingdetail3.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail3.png)
 
 - ##### Advocate detail  
 
@@ -42,14 +42,14 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
   - **advocator homepage**: user can see this advocator's own website
 
-  ![](imgs\advocatedetail1.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail1.png)
 
   - **meetings**: users can see all the meetings this advocator own, in both upcoming and history
 
-  ![](imgs\advocatedetail2.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail2.png)
 
   - **follow**: users can follow this advocator by one-clicking the *follow* button  	
-     ​					![](imgs\advocatedetail3.png)  	  
+     ​					![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail3.png)  	  
 
 
 ## Admin-user features
@@ -57,18 +57,18 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 - #####  Register by twitter
 
   - advocators can just **authorize the twitter** to login to advocateHub  
-    ![](imgs\admin2.png)
+    ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin2.png)
 
   - advocators need to **initialize their account**, fill the basic information(twitter alias, github alias, facebook publicPage etc.) to let users know more about you
 
-  ![](imgs\admin3.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin3.png)
 
 - #####  Public a meeting
 
   - filling the meeting's information, system will **generate a qrcode** for you which can be scanned by users
 
-  ![](imgs\admin4.png)
+  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin4.png)
 
-![](imgs\admin5.png)
+![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin5.png)
 
-![](imgs\admin6.png)
+![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6.png)
