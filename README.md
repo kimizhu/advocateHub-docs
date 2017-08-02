@@ -12,11 +12,11 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
   - **advocators**: users can see all the advocators by *different aspects* and *popularity*
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home1.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home1." width="375px">
 
   - **meetings**: users can see the *upcoming meetings* and all the *history meetings*
 
-![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2.png)
+<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/home2." width="375px">
 
 
 
@@ -26,15 +26,15 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
   - **general infos**: users can see the description about this meeting
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail1.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail1." width="375px">
 
   - **resources**: users can find all the resources which provided by advocator, including video, ppt, document etc.
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail2.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail2." width="375px">
 
   - **recommend**: our system will automatically do some recommendation based on the meeting subject
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail3.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/meetingdetail3." width="375px">
 
 - ##### Advocate detail  
 
@@ -42,14 +42,14 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 
   - **advocator homepage**: user can see this advocator's own website
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail1.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail1." width="375px">
 
   - **meetings**: users can see all the meetings this advocator own, in both upcoming and history
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail2.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail2." width="375px">
 
   - **follow**: users can follow this advocator by one-clicking the *follow* button  	
-     ​					![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail3.png)  	  
+     ​					<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/advocatedetail3." width="375px">  	  
 
 
 ## Admin-user features
@@ -57,18 +57,18 @@ Involved into us, fork the *github repository* in both *[frontend](https://githu
 - #####  Register by twitter
 
   - advocators can just **authorize the twitter** to login to advocateHub  
-    ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin2.png)
+    <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin2." width="375px">
 
   - advocators need to **initialize their account**, fill the basic information(twitter alias, github alias, facebook publicPage etc.) to let users know more about you
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin3.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin3." width="375px">
 
 - #####  Public a meeting
 
   - filling the meeting's information, system will **generate a qrcode** for you which can be scanned by users
 
-  ![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin4.png)
+  <img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin4." width="375px">
 
-![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin5.png)
+<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin5." width="375px">
 
-![](https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6.png)
+<img src="https://github.com/LucasDvp/advocateHub-docs/blob/master/imgs/admin6." width="375px">
